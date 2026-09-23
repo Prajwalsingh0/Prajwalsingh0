@@ -1,16 +1,91 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Prajwalsingh0/Prajwalsingh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Prajwal%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20Java%20%7C%20JavaScript&descAlignY=58&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio](https://img.shields.io/badge/Portfolio-prajwalsingh.is--a.dev-302b63?style=for-the-badge&logo=firefox&logoColor=white)](https://prajwalsingh.is-a.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Prajwalsingh0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwalsingh0)
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm **Prajwal Singh**, a Software Developer who loves building clean, scalable systems — from frontend interfaces to backend APIs. I write case studies and engineering retrospectives at my [portfolio](https://prajwalsingh.is-a.dev), where I document what I build and what I learn.
+
+- 🔭 Currently working on full-stack Java & JavaScript projects
+- 🌱 Exploring Spring Boot, REST APIs, and system design
+- 🎯 Focused on building things that work well and are fun to read about
+- πŸ"« Reach me via my [portfolio](https://prajwalsingh.is-a.dev)
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![H2](https://img.shields.io/badge/H2_Database-1E90FF?style=for-the-badge&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## πŸš€ Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [🗳️ voting-app](https://github.com/Prajwalsingh0/voting-app) | REST API voting system with JWT auth & H2 Database | Java, Spring Boot |
+| [🎓 Alumni-Website](https://github.com/Prajwalsingh0/Alumni-Website) | Alumni networking & connection platform | HTML, CSS |
+| [🏫 Student-Management-System](https://github.com/Prajwalsingh0/Student-Management-System) | Full student record management system | Java |
+| [🌙 3am](https://github.com/Prajwalsingh0/3am) | Late-night JavaScript project | JavaScript |
+
+---
+
+## πŸ"Š GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prajwalsingh0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalsingh0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwalsingh0&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-302b63?style=for-the-badge)](https://prajwalsingh.is-a.dev)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+</div>
