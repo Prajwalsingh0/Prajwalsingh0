@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-prajwalsingh.is--a.dev-302b63?style=for-the-badge&logo=firefox&logoColor=white)](https://prajwalsingh.is-a.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prajwalsingh20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwalsingh20)
-[![Email](https://img.shields.io/badge/Email-prajwalsingh344@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalsingh344@gmail.com)
+[![Email](https://img.shields.io/badge/Email-prajwalsingh344%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalsingh344@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Prajwalsingh0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwalsingh0)
 
 </div>
@@ -108,7 +108,9 @@ public class PrajwalSingh extends SoftwareEngineer {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwalsingh0&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+![Contributions](https://img.shields.io/badge/Total%20Contributions-210-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-36%20days-a855f7?style=for-the-badge&logo=github&logoColor=white)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-5%20days-22c55e?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
